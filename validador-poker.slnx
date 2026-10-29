@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ValidadorPoker.ConsoleApp/ValidadorPoker.ConsoleApp.csproj" Id="99bacd3e-5c11-cd37-e493-050717d4e102" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ValidadorPoker.Domain.Tests/ValidadorPoker.Domain.Tests.csproj" Id="314c10c3-121b-9579-2a17-d15e686a6dad" />
+  </Folder>
+</Solution>
